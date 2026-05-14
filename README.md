@@ -8,31 +8,47 @@
   <a href="https://techcarlosandre.github.io/portfolio-carlos/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=CC0000" />
   </a>
-  <img src="https://img.shields.io/github/followers/techcarlosandre?label=Seguidores&style=for-the-badge&color=990000" />
-  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-blue?style=for-the-badge&color=555555" />
+  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-555555?style=for-the-badge" />
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente no **4º período de Sistemas de Informação na Estácio**, busco constantemente a excelência técnica e design de alta fidelidade.
+Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente cursando o **4º período de Sistemas de Informação na Estácio**, foco em transformar problemas complexos em experiências digitais simples e eficientes.
 
 - 🔭 Atualmente desenvolvendo o ecossistema **Omni Gestão**.
-- ☕ Estudando **Java** para fortalecer a arquitetura de sistemas robustos.
-- ⚡ Experiência com **Next.js, Python (Flask), Tailwind CSS e PostgreSQL**.
+- ☕ Aprofundando em **Java** e **Spring Boot** para arquiteturas robustas.
+- ⚡ Experiência consolidada com **React, Next.js, Node.js e Flask**.
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Main Languages & Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</div>
+
+### 🔧 Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+### 📚 Other Knowledge
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -42,7 +58,7 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
 
 <div align="center">
   <a href="https://github.com/techcarlosandre/omni-gestao-vitrine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techcarlosandre&repo=omni-gestao-vitrine&theme=terminal&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techcarlosandre&repo=omni-gestao-vitrine&theme=terminal" />
   </a>
 </div>
 
@@ -70,8 +86,4 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
   <a href="mailto:techcarlosandre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <p>© 2026 Carlos André • Construindo o futuro, um commit por vez.</p>
 </div>
