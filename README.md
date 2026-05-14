@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://techcarlosandre.github.io/portfolio-carlos/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👨‍💻;Sou+Desenvolvedor+Full+Stack+🚀;Seja+bem+vindo!+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👋;Sou+Desenvolvedor+Full+Stack+🚀;Seja+bem+vindo!+⚡" alt="Typing SVG" />
   </a>
 </p>
 
