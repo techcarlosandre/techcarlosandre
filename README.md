@@ -1,8 +1,6 @@
-# 🚀 Olá, eu sou o Carlos André!
-
 <p align="center">
   <a href="https://techcarlosandre.github.io/portfolio-carlos/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👋;Sou+Desenvolvedor+Full+Stack;Seja+bem+vindo,+e+se+quiser+entrar+em+contato,+tem+minhas+redes+sociais+ai,+fica+avontade!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👨‍💻;Sou+Desenvolvedor+Full+Stack+🚀;Seja+bem+vindo!+⚡" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,7 +38,7 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
 ---
 
 ### 🚀 Projeto em Destaque: Omni Gestão
-*O ecossistema definitivo para gestão financeira e de inventário.*
+*O ecossistema definitivo para gestão financeira e de inventário*.
 
 <div align="center">
   <a href="https://github.com/techcarlosandre/omni-gestao-vitrine">
