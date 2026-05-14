@@ -1,23 +1,27 @@
 # 🚀 Olá, eu sou o Carlos André!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Carlos%20André&fontSize=70&animation=fadeIn" width="100%" />
-</div>
+<p align="center">
+  <a href="https://techcarlosandre.github.io/portfolio-carlos/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👋;Sou+Desenvolvedor+Full+Stack;Seja+bem+vindo,+e+se+quiser+entrar+em+contato,+tem+minhas+redes+sociais+ai,+fica+avontade!" alt="Typing SVG" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-FullStack%20Developer-black?style=for-the-badge&logoColor=white&color=990000" />
-  <img src="https://img.shields.io/github/followers/techcarlosandre?label=Seguidores&style=for-the-badge&color=cc0000" />
+  <a href="https://techcarlosandre.github.io/portfolio-carlos/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=CC0000" />
+  </a>
+  <img src="https://img.shields.io/github/followers/techcarlosandre?label=Seguidores&style=for-the-badge&color=990000" />
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-blue?style=for-the-badge&color=555555" />
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
-Sou um desenvolvedor FullStack apaixonado por criar soluções inteligentes e interfaces premium. Atualmente cursando **Sistemas de Informação (Estácio)**, foco em transformar problemas complexos em experiências digitais simples e eficientes.
+Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente no **4º período de Sistemas de Informação na Estácio**, busco constantemente a excelência técnica e design de alta fidelidade.
 
-- 🔭 Atualmente trabalhando no ecossistema **Omni Gestão**.
-- ⚡ Especialista em **React, Next.js e Supabase**.
-- 🎯 Buscando constantemente a excelência técnica e design de alta fidelidade.
+- 🔭 Atualmente desenvolvendo o ecossistema **Omni Gestão**.
+- ☕ Estudando **Java** para fortalecer a arquitetura de sistemas robustos.
+- ⚡ Experiência com **Next.js, Python (Flask), Tailwind CSS e PostgreSQL**.
 
 ---
 
@@ -25,17 +29,18 @@ Sou um desenvolvedor FullStack apaixonado por criar soluções inteligentes e in
 
 <div align="left">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
+  <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
 ---
 
 ### 🚀 Projeto em Destaque: Omni Gestão
-*O ecossistema definitivo para gestão de pontos de venda e inventário.*
+*O ecossistema definitivo para gestão financeira e de inventário.*
 
 <div align="center">
   <a href="https://github.com/techcarlosandre/omni-gestao-vitrine">
