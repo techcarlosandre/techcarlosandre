@@ -16,13 +16,13 @@
 ### 👨‍💻 Sobre Mim
 Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente cursando o **4º período de Sistemas de Informação na Estácio**, foco em transformar problemas complexos em experiências digitais simples e eficientes.
 
-- 🔭 Atualmente desenvolvendo o ecossistema **Omni Gestão**.
-- ☕ Aprofundando em **Java** e **Spring Boot** para arquiteturas robustas.
+- 🔭 Explorando novas arquiteturas e padrões de design para sistemas escaláveis.
+- ☕ Aprofundando em **Java** e **Spring Boot** para back-end corporativo.
 - ⚡ Experiência consolidada com **React, Next.js, Node.js e Flask**.
 
 ---
 
-### 🛠️ Main Languages & Frameworks
+### 🛠️ Tecnologias e Frameworks
 <div align="left">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
@@ -32,7 +32,7 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
   <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 </div>
 
-### 🔧 Tools
+### 🔧 Ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -41,7 +41,7 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-### 📚 Other Knowledge
+### 📚 Outros Conhecimentos
 <div align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -53,31 +53,7 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
 
 ---
 
-### 🚀 Projeto em Destaque: Omni Gestão
-*O ecossistema definitivo para gestão financeira e de inventário*.
-
-<div align="center">
-  <a href="https://github.com/techcarlosandre/omni-gestao-vitrine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=techcarlosandre&repo=omni-gestao-vitrine&theme=terminal" />
-  </a>
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techcarlosandre&show_icons=true&theme=terminal&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcarlosandre&layout=compact&langs_count=7&theme=terminal" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techcarlosandre&theme=terminal" />
-</div>
-
----
-
-### 📫 Vamos nos conectar?
+### 🤝 Contato Profissional
 
 <div align="center">
   <a href="https://www.linkedin.com/in/devcarlosandre/" target="_blank">
