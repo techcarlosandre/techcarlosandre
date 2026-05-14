@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=header" width="100%" />
+</div>
+
 <p align="center">
   <a href="https://techcarlosandre.github.io/portfolio-carlos/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Carlos+André!+👨‍💻;Sou+Desenvolvedor+Full+Stack+🚀;Seja+bem+vindo!+⚡" alt="Typing SVG" />
@@ -62,4 +66,8 @@ Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligent
   <a href="mailto:techcarlosandre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer" width="100%" />
 </div>
