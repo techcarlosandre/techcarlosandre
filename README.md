@@ -24,7 +24,7 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Sou um desenvolvedor **Junior Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente cursando o **5º período de Sistemas de Informação na Estácio**, foco em transformar problemas complexos em experiências digitais simples e eficientes.
+Sou um desenvolvedor **Full Stack** focado em criar soluções inteligentes e interfaces premium. Atualmente cursando o **5º período de Sistemas de Informação na Estácio**, foco em transformar problemas complexos em experiências digitais simples e eficientes.
 
 - 🔭 Explorando novas arquiteturas e padrões de design para sistemas escaláveis.
 - ☕ Aprofundando em **Java** e **Spring Boot** para back-end corporativo.
