@@ -10,13 +10,13 @@
 </div>
 
 <p align="center">
-  <a href="https://portfolio.techcarlos.com.br">
+  <a href="https://techcarlosandre.github.io/portfolio-carlos/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Carlos+André!+👋;Full+Stack+Developer+🚀;Welcome!+⚡" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <a href="https://portfolio.techcarlos.com.br" target="_blank">
+  <a href="https://techcarlosandre.github.io/portfolio-carlos/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_my_Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=CC0000" />
   </a>
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brazil-555555?style=for-the-badge" />
