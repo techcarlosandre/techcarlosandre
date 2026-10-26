@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <a href="https://portfolio.techcarlos.com.br" target="_blank">
+  <a href="https://techcarlosandre.github.io/portfolio-carlos/" target="_blank">
     <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-black?style=for-the-badge&logo=googlechrome&logoColor=white&color=CC0000" />
   </a>
   <img src="https://img.shields.io/badge/Rio%20de%20Janeiro-Brasil-555555?style=for-the-badge" />
